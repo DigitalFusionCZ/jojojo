@@ -1,0 +1,97 @@
+{
+  "generated_at": "2025-07-30T17:45:23.193Z",
+  "total_images": 13,
+  "images": [
+    {
+      "original_url": "https://digitalfusion.cz/portfolio/optimized/zuzzipaint.webp",
+      "file_path": "public/images/project-zuzzi-paint-gallery.webp",
+      "file_name": "project-zuzzi-paint-gallery.webp",
+      "description": "A screenshot of an art gallery website, 'Zuzana Hrnčiříková', with abstract, colorful paintings in the background and navigation links for 'obrazy', 'výstavy', 'autorka', and 'kontakt'. Context: Found in the 'Our Projects' section as a portfolio item. This image serves as a visual representation of a completed web development project, showcasing front-end design and user interface for an art gallery.",
+      "size_bytes": 26926
+    },
+    {
+      "original_url": "https://digitalfusion.cz/portfolio/optimized/navodkuspechu.webp",
+      "file_path": "public/images/project-alchymie-usechu-essay.webp",
+      "file_name": "project-alchymie-usechu-essay.webp",
+      "description": "A screenshot of a dark-themed website with a table of contents on the left and the title 'Alchymie úspěchu' (Alchemy of Success) in gold text on the right. Below it, there's a subtitle 'Biologické a psychologické kořeny lidské cesty' (Biological and psychological roots of human journey). There's a 'PROZKOUMAT' (EXPLORE) button at the bottom. Context: Found in the 'Our Projects' section as a portfolio item. It demonstrates the website's clean design, readable typography, and navigation structure for an essay-style content site.",
+      "size_bytes": 24150
+    },
+    {
+      "original_url": "https://digitalfusion.cz/portfolio/optimized/camoonwall.webp",
+      "file_path": "public/images/project-camo-on-wall-ecommerce.webp",
+      "file_name": "project-camo-on-wall-ecommerce.webp",
+      "description": "A screenshot of an e-commerce website with a red header containing navigation links like 'ALL', 'TOPS', 'BOTTOM', 'ACCESSORIES', 'ABOUT', 'COLLECTION', 'CONTACT' on the left and language/currency options on the right. The main content area features a blurry black and white image of many people, with a prominent red 'DISCOVER' button in the center. Context: Found in the 'Our Projects' section as a portfolio item. It showcases the minimalist design and user interface of an e-commerce platform.",
+      "size_bytes": 12250
+    },
+    {
+      "original_url": "https://digitalfusion.cz/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1576091160550-2173dba999ef%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=3840&q=75",
+      "file_path": "public/images/blog-medical-website-optimization.jpg",
+      "file_name": "blog-medical-website-optimization.jpg",
+      "description": "A close-up image of a person's hands typing on a silver laptop keyboard, with a blue stethoscope resting on the wooden desk in the foreground. Context: Featured image for a blog post titled 'Digitální ordinace: Jak moderní web buduje důvěru pacientů a zjednodušuje objednávání'. It effectively represents the intersection of technology and healthcare, ideal for a blog thumbnail.",
+      "size_bytes": 121307
+    },
+    {
+      "original_url": "https://digitalfusion.cz/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1552566626-52f8b828add9%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=3840&q=75",
+      "file_path": "public/images/blog-restaurant-hotel-marketing.jpg",
+      "file_name": "blog-restaurant-hotel-marketing.jpg",
+      "description": "An interior shot of a modern, stylish restaurant with orange-brown seating, dark tables, and an open kitchen area in the background with large metal range hoods. The space is well-lit and appears spacious. Context: Featured image for a blog post about digital marketing for restaurants and hotels. It visually represents the industry discussed in the article.",
+      "size_bytes": 443337
+    },
+    {
+      "original_url": "https://digitalfusion.cz/_next/image?url=https%3A%2F%2Fc.pxhere.com%2Fphotos%2F2b%2Fc0%2Farchitecture_render_external_design_photoshop_3d_3dsmax_crown_render-599832.jpg!d&w=3840&q=75",
+      "file_path": "public/images/blog-real-estate-website.jpg",
+      "file_name": "blog-real-estate-website.jpg",
+      "description": "A bright, modern open-concept living space and kitchen with large windows overlooking an outdoor patio. The living area features a white sectional sofa with throw pillows, a coffee table, and a patterned rug, while the kitchen has white cabinets and a dark island. Context: Featured image for a blog post about real estate agents utilizing websites. It visually signifies modern living spaces and property sales.",
+      "size_bytes": 70089
+    },
+    {
+      "original_url": "https://digitalfusion.cz/_next/image?url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F3993324%2Fpexels-photo-3993324.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D1260%26h%3D750%26dpr%3D1&w=3840&q=75",
+      "file_path": "public/images/blog-beauty-salon-website.jpg",
+      "file_name": "blog-beauty-salon-website.jpg",
+      "description": "A candid shot of a beautician, wearing a brown overall and black gloves, applying a product to a client's hair. The client is smiling and wearing a protective cape. The background shows a salon environment with mirrors and lighting. Context: Featured image for a blog post about attracting clients to beauty salons online. It directly illustrates the services provided in a salon.",
+      "size_bytes": 42542
+    },
+    {
+      "original_url": "https://digitalfusion.cz/_next/image?url=https%3A%2F%2Fc.pxhere.com%2Fphotos%2F50%2F8f%2Ffactory_worker_industrial_industry_work_manufacturing_production_man-737450.jpg!d&w=3840&q=75",
+      "file_path": "public/images/blog-manufacturing-b2b-leads.jpg",
+      "file_name": "blog-manufacturing-b2b-leads.jpg",
+      "description": "A wide shot of a factory floor with machinery, conveyor belts, workers, and stacked cardboard boxes. The setting depicts an active industrial manufacturing environment. Context: Featured image for a blog post about B2B lead generation from websites for manufacturing firms. It provides a relevant visual for the industry discussed.",
+      "size_bytes": 77551
+    },
+    {
+      "original_url": "https://digitalfusion.cz/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1454165804606-c3d57bc86b40%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=3840&q=75",
+      "file_path": "public/images/blog-website-growth-marketing.jpg",
+      "file_name": "blog-website-growth-marketing.jpg",
+      "description": "Two individuals, possibly colleagues, are seated at a wooden desk with open laptops. One person is writing on a document with a red pen, while the other's hands are also visible near a laptop. Papers and a mouse are also on the desk. Context: Featured image for a blog post about transforming a website into a growth and marketing tool. It symbolizes business planning, collaboration, and digital strategy.",
+      "size_bytes": 174342
+    },
+    {
+      "original_url": "https://digitalfusion.cz/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1740313498441-68da0e01df37%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=3840&q=75",
+      "file_path": "public/images/blog-successful-web-projects.jpg",
+      "file_name": "blog-successful-web-projects.jpg",
+      "description": "The word 'SUCCESS' spelled out in wooden scrabble tiles on a light wooden surface, with other scattered tiles around it. The focus is on the word 'SUCCESS'. Context: Featured image for a blog post titled 'Pohled do zákulisí: Jak vytváříme úspěšné webové projekty od A do Z'. This symbolic image perfectly conveys the concept of achieving project success.",
+      "size_bytes": 141119
+    },
+    {
+      "original_url": "https://digitalfusion.cz/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1582084380521-2462509467e5%3Fq%3D80%26w%3D2070%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=3840&q=75",
+      "file_path": "public/images/blog-web-accessibility-future.jpg",
+      "file_name": "blog-web-accessibility-future.jpg",
+      "description": "A close-up of a wrist watch resting on an open laptop keyboard, bathed in vibrant neon blue and pink light, reflecting on the laptop screen and surroundings. Context: Featured image for a blog post about the future of web accessibility. The abstract, futuristic lighting suggests innovation and modern technology.",
+      "size_bytes": 107980
+    },
+    {
+      "original_url": "https://digitalfusion.cz/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1544890225-2f3faec4cd60%3Fq%3D80%26w%3D1925%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&w=3840&q=75",
+      "file_path": "public/images/blog-web-application-security.jpg",
+      "file_name": "blog-web-application-security.jpg",
+      "description": "A person wearing a skull-patterned face mask and glasses (which reflect lines of green code) is seen in a dark environment, looking towards the right, with a bright light source on a keyboard partially visible. Context: Featured image for a blog post on web application security. It visually represents cybersecurity threats and hackers, making it highly relevant.",
+      "size_bytes": 77161
+    },
+    {
+      "original_url": "https://digitalfusion.cz/_next/image?url=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2024%2F04%2F05%2F05%2F16%2Fe-commerce-8676517_1280.jpg&w=3840&q=75",
+      "file_path": "public/images/blog-ecommerce-conversion-strategies.jpg",
+      "file_name": "blog-ecommerce-conversion-strategies.jpg",
+      "description": "A laptop is open on a wooden desk, in front of a stack of several cardboard boxes. The background shows a modern office or warehouse space with large windows and shelving, suggesting a business environment. Context: Featured image for a blog post about effective e-commerce function integration and conversion strategies. It visually connects to online sales, shipping, and business operations.",
+      "size_bytes": 61957
+    }
+  ]
+}
